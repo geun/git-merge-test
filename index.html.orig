@@ -1,2 +1,8 @@
 this is test for git merge
+<<<<<<< HEAD
+finishedi
+before rebase
+=======
 finished
+experiment
+>>>>>>> patch index
